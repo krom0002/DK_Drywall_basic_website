@@ -1,0 +1,135 @@
+body {
+    background-color: #272A1F;
+}
+
+header {
+    background: no-repeat left/cover url(img/drywall_image.jpg);
+    display: flex;
+    height: 420px;
+    min-width: 120px;
+    align-items: center;
+    color: #030502;
+    text-shadow: #D0C8B8 0 0 .2em;
+    border-radius: 15px;
+}
+
+#title_box {
+    height: 100px;
+    width: 400px;
+    background-color: #D0C8B8;
+    opacity: 0.77;
+    padding: 5px;
+    margin: 5px;
+    border-style: solid;
+    border-color: #462E18;
+    border-radius: 15px;
+}
+
+main {
+    background-color: #272A1F;
+    padding: 5px;
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border-radius: 15px;
+}
+
+#about_box {
+    background-color: #D0C8B8;
+    color: #030502;
+    padding: 5px;
+    margin: 5px;
+    /* border-style: solid; */
+    /* border-color: #462E18; */
+    border-radius: 15px;
+    /* display: flex; */
+}
+
+#about {
+    background-color: #D0C8B8;
+    color: #030502;
+    padding: 5px;
+    margin: 5px;
+    border-style: solid;
+    border-color: #462E18;
+    border-radius: 25px;
+
+}
+
+#services_box {
+    background-color: #D0C8B8;
+    color: #030502;
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+    /* border-style: solid; */
+    /* border-color: #462E18; */
+    border-radius: 15px;
+}
+
+#services {
+    background-color: #D0C8B8;
+    color: #030502;
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+    border-style: solid;
+    border-color: #462E18;
+    border-radius: 25px;
+
+}
+
+h1, h2, h3, h4 {
+    
+    margin: 2%;
+    text-align: center
+}
+
+footer {
+    background-color: #D0C8B8;
+    color: #030502;
+    /* text-shadow: #D0C8B8 0 0 .2em; */
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+    border-style: solid;
+    border-color: #462E18;
+    border-radius: 15px;
+}
+
+#footer_title {
+    background-color: #D0C8B8;
+    padding: 5px;
+    margin: 5px;
+    border-style: solid;
+    border-color: #462E18;
+    border-radius: 20px;
+}
+
+/* unvisited link */
+a:link {
+    color: #030502;
+}
+
+/* visited link */
+a:visited {
+    color: #462E18;
+}
+
+/* color scheme based off photo */
+
+/* light brown */
+/* #6A644C */
+
+/* dark grey */
+/* #272A1F */
+
+/* off white */
+/* #D0C8B8*/
+
+/* dark brown */
+/* #462E18 */
+
+/* bright black */
+/* #030502 */
